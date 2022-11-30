@@ -58,7 +58,7 @@ ROOT_URLCONF = 'cubicoproject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\cubicocontrolgaleria\cubicoproject'],#Todas mis plantillas en este directorio
+        'DIRS': [r'C:\pruebacubico\CubiF\cubiproject'],#Todas mis plantillas en este directorio
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
